@@ -22,7 +22,7 @@ h1 {
 .bottom-head {
     display: flex;
     flex-direction: column;
-    padding: 3cm;
+    
 }
 .awesome,
 .subtext,
@@ -35,7 +35,9 @@ h1 {
     justify-content: flex-end;
     flex: 1;
     margin-top: -6cm;
+     
 }
+
 button {
     background-color: #3882f6;
     width: 250px;
@@ -45,6 +47,9 @@ button {
 h2 {
     font-size: 50px;
 }
+a {
+    color: white;
+}
 
 .bottom-Center {
     display: flex;
@@ -52,8 +57,7 @@ h2 {
     background-color: #e5e7eb;
     font-size: 36px;
     color: black;
-    padding: 200px;
-    margin: 0;
+    padding: 50px;
     flex-direction: column;
 }
 
@@ -64,9 +68,10 @@ h2 {
     justify-content: center;
     background-color: #3882f6;
     color: white;
-    padding: 40px;
-    margin: 110px;
+    padding: 20px;
+    margin: 200px;
     font-size: 30px;
+    
 }
 
 .Copyright {
@@ -83,15 +88,34 @@ h2 {
     margin-top: -4cm;
 }
 
-.lmage {
-    width: 200px;
-    height: 50px;
-}
-.center {
+.title {
     display: flex;
     justify-content: center;
-    gap: 20px;
+    padding: 20px;
+    padding-left: 900px;
+    
 }
+
+.mainimg {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+
+
+body {
+    align-items: center;
+}
+
+.info {
+    max-width: 200px;
+}
+.center {
+    padding: 50px;
+}
+
+
+
 
 
 
