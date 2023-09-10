@@ -1,3 +1,3 @@
 # Landing-Page
 
-wget https://drive.google.com/drive/folders/12Ct0ztVWHpL7SrEbUammGMmDopOKL9X_?usp=sharing
+python3 -m TTS.app.synthesize -C tts_config.json -t "Hello, this is a test." -o output.wav
