@@ -1,3 +1,3 @@
 # Landing-Page
 
-python3 -m TTS.app.synthesize -C tts_config.json -t "Hello, this is a test." -o output.wav
+python3 synthesize.py --text "Hello, this is a test." --out_path output.wav
