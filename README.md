@@ -1,4 +1,3 @@
 # Landing-Page
 
-wget https://github.com/mozilla/TTS/releases/download/<MODEL_VERSION>/tts_model_<MODEL_VERSION>.tar.gz
-tar -xvzf tts_model_<MODEL_VERSION>.tar.gz
+wget https://drive.google.com/drive/folders/12Ct0ztVWHpL7SrEbUammGMmDopOKL9X_?usp=sharing
